@@ -89,7 +89,7 @@ font-weight: 400;
 line-height: 180%; /* 25.2px */
 }
 .parent-slick-rels{
-    border-radius:0 0 40px 40px ;
+    border-radius:0;
 }
 .playy{
     position: absolute;

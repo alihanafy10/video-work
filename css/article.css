@@ -6,7 +6,7 @@
 padding: 52px 22px 0;
 background-color: var(--main-color-4);
 gap: 16px;
-border-radius: 40px 40px 0 0;
+/* border-radius: 40px 40px 0 0; */
 }
 .top-article >h4{
     color: var(--main-color-11);
@@ -327,7 +327,6 @@ font-weight: 700;
 height: 41px;
 border-radius: 50%;
 }
-
 
 
 .parent-slick-rels .slick-rels .sonson {
