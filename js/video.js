@@ -22,24 +22,3 @@ contents.forEach((el, idx) => {
   });
 
 
-/******************* vid ********************** */
-  
-
-
-    const playerr = new Plyr('#playerr', {
-        controls: [
-            'play-large',
-            'progress',
-            'current-time',
-            'captions',
-            
-            'fullscreen',
-        ],
-        youtube: {
-            noCookie: true,
-            rel: 0,
-            showinfo: 0,
-            iv_load_policy: 3
-        }
-    })
-
