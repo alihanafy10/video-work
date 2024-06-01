@@ -95,8 +95,8 @@ right: 0;
 
  .video-player {
   position: relative!important;
-  width: 316px !important;
-  height: 191px !important;
+  width: 316px ;
+  /* height: 191px !important; */
   border-radius: 20px;
 background: url(<path-to-image>) lightgray 50% / cover no-repeat;
   overflow: hidden;
